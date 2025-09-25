@@ -71167,3 +71167,7 @@ devtool
 endpoint
 endpoints
 prod/
+system/console/configMgr
+system/console
+configMgr
+configManager
