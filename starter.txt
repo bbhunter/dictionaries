@@ -11845,7 +11845,7 @@ cont/tpl
 conta
 conta/
 contact
-contact us
+contactus
 contact$
 contact-author
 contact-form
@@ -13688,7 +13688,7 @@ dbadmin
 dbadmin.php
 dbadmin/
 dbase
-dbase.php a
+dbase.phpa
 dbases/
 dbback
 dbbackup
@@ -15076,7 +15076,7 @@ documento.php
 documentos
 documentos/
 documents
-documents and settings
+documentsandsettings
 documents$
 documents.cfm
 documents/
@@ -15168,7 +15168,7 @@ domreg
 don
 donald
 donate
-donate cash
+donatecash
 donate.asp
 donate.html
 donate.php
@@ -17523,7 +17523,7 @@ examples/servlets/index.html
 exampleswebapp
 exampleswebapp/*
 exampleswebapp/connectorservlet
-exampleswebapp/docs -> /docs
+exampleswebapp/docs->/docs
 exampleswebapp/docs/
 exampleswebapp/domains
 exampleswebapp/examples
@@ -17534,7 +17534,7 @@ exampleswebapp/orderparser.jsp
 exampleswebapp/senderservlet
 exampleswebapp/server
 exampleswebapp/sessionservlet
-exampleswebapp/shutdown -> 401
+exampleswebapp/shutdown->401
 exampleswebapp/simplesqlservlet
 exampleswebapp/sslclientservlet
 exampleswebapp/webservicesejb.jsp
@@ -17742,7 +17742,7 @@ extern-data
 extern/
 extern_js
 external
-external files
+externalfiles
 external-link
 external.php
 external/
@@ -25035,7 +25035,7 @@ holly
 hollywood
 homa
 home
-home page
+homepage
 home-insurance
 home-loan
 home-page
@@ -30834,7 +30834,7 @@ jspspellcheck/
 jspstatus
 jsptest
 jspui/discover
-jspwebshell 1.2.jsp
+jspwebshell1.2.jsp
 jsq/
 jsr
 jss
@@ -38902,7 +38902,7 @@ moderator/
 moderatorcompliants
 moderators
 moderators/
-modern mom
+modernmom
 modern-and-minimalist
 modern-blue
 modern-blue-dark
@@ -40056,7 +40056,7 @@ mxs2
 mxsj
 mxzb/4548.html2012
 my
-my project
+myproject
 my$
 my-7px-life
 my-account
@@ -41318,7 +41318,7 @@ networksharequestion
 networkz/
 neu
 neu/
-neuf giga photo
+neufgigaphoto
 neuf/annonces.cfm
 neufgiga
 neufgiga/
@@ -46462,7 +46462,7 @@ plan
 plane
 planet
 planetemo
-planned giving
+plannedgiving
 planner
 planners
 planning
@@ -47425,7 +47425,7 @@ presents
 preserve
 president
 press
-press releases
+pressreleases
 press-center
 press-release
 press-releases
@@ -47760,7 +47760,7 @@ privacidad/
 privacidade
 privacidade/
 privacy
-privacy policy
+privacypolicy
 privacy$
 privacy-policy
 privacy.asp
@@ -48726,7 +48726,7 @@ proghelp/kbnv11.nsf
 proghelp/kbssv11.nsf
 prognosen
 program
-program files
+programfiles
 program/
 program/admin
 program/etc
@@ -52157,7 +52157,7 @@ reportpost
 reportpost.php
 reportproblem
 reports
-reports list
+reportslist
 reports-old
 reports-test
 reports.nsf
@@ -57364,7 +57364,7 @@ sistemes
 sistint
 sit
 site
-site map
+sitemap
 site-admin
 site-config
 site-fusion
@@ -60243,7 +60243,7 @@ stxt
 sty
 sty/
 style
-style library
+stylelibrary
 style.css
 style.html
 style.php
@@ -67836,7 +67836,7 @@ waltz-with-bashir
 wam
 wamu
 wan
-wan group
+wangroup
 wand.dat
 waniliowa-noc
 wanker
@@ -68029,7 +68029,7 @@ weatherunderground
 weaver
 weaver-ii
 web
-web references
+webreferences
 web-20
 web-20-blue
 web-20-pinky
@@ -71154,7 +71154,7 @@ api/.env/.aws/
 .env/aws/credential
 .env/aws/config
 _profiler/phpinfo
-xleet.php 
+xleet.php
 plesk-stat
 OA_HTML/
 OA_HTML/ibeCAcpSSOReg.jsp
@@ -71171,3 +71171,51 @@ system/console/configMgr
 system/console
 configMgr
 configManager
+/.aws/credentials
+/aws/credentials
+/home/ec2-user/.aws/credentials
+/credentials
+/.aws/ecs-task-credentials
+/.aws/ecs-task-credentials.json
+/.aws/metadata/iam/security-credentials/
+/.aws_creds.json
+/.db_credentials
+/.smtp-credentials
+/.well-known/credentials.json
+/admin/config?cmd=cat+/root/.aws/credentials
+/api/aws/credentials
+/api/v1/aws/credentials
+/api/v1/credentials
+/aws/credentials.json
+/aws/ecs/task-credentials
+/aws/ecs/task-credentials.json
+/aws/iam/credentials.json
+/aws/iam/ecs-task-credentials.json
+/aws/iam/temp-creds.json
+/aws/iam/temporary-credentials
+/aws/metadata/iam/security-credentials
+/aws/metadata/iam/security-credentials/
+/aws/s3/credentials.bak
+/aws/s3/credentials.json
+/aws/s3/credentials.yml
+/aws_credentials.txt
+/aws_creds.js
+/data/aws/credentials
+/ecs/task-credentials
+/ecs/task-credentials.json
+/email/credentials.json
+/hidden/.aws/credentials
+/internal-api/aws/credentials
+/internal-api/iam/credentials
+/internal/aws/credentials
+/k8s/eks/credentials
+/latest/meta-data/iam/security-credentials
+/private/aws_credentials.json
+/public/.aws/credentials
+/s3-credentials.bak
+/s3-credentials.json
+/s3/.aws/credentials
+/s3/public/credentials
+/tmp/.aws/credentials
+/vendor/.aws/credentials
+/vendor/aws/credentials
