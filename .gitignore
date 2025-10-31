@@ -20,3 +20,4 @@ an_*
 *.swp
 
 password_cracking_rules/
+graphql-wordlist
